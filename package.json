@@ -19,7 +19,7 @@
     "express": "4.17.1",
     "express-session": "1.15.5",
     "method-override": "2.3.9",
-    "pug": "2.0.0-rc.3"
+    "pug": "3.0.0"
   },
   "devDependencies": {
     "eslint": "4.6.1",
